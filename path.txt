@@ -1,0 +1,9 @@
+TODOS:
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+
+
+por user:
+
+C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
